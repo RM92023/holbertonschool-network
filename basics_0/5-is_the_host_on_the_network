@@ -1,5 +1,5 @@
-#!/usr/bin/bash
-#ping an IP address and connect to it
+#!/usr/bin/env bash
+# ping an IP address and connect to it
 
 if [ $# -eq 0 ]
 then
